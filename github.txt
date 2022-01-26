@@ -1,0 +1,8 @@
+github push deneme
+
+git add .
+git commit -m "mesaj icerigi"
+git push https://<GITHUB_ACCESS_TOKEN>@github.com/<GITHUB_USERNAME>/<REPOSITORY_NAME>.git
+
+
+git push https://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@github.com/perimtemizoz/WebScraping-with-BeautifulSoup/

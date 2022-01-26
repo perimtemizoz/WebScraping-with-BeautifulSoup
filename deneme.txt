@@ -1,5 +1,0 @@
-github push deneme
-
-git add .
-git commit -m "mesaj icerigi"
-git push
